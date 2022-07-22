@@ -1,3 +1,6 @@
+# API문서와 requests 활용
+# BTC의 KRW(원) 전일종가를 출력
+
 import requests
 
 order_currency = 'BTC'
